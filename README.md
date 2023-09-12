@@ -31,6 +31,8 @@ Aca les dejo un par de recursos para que puedan tener un desarrollo tranquilo y 
 - **[FL()](https://www.fl0.com/)**: Aca le dejo especialmente para si necesitan levantar bases de datos, este es perfecto y es gratis. Tiene un almacenamiento algo escazo pero no almacenan datos dinamicos por lo que con los estaticos que ustedes usan son mas que suficiente.
   
 - **[Render](https://render.com/)**: Aca les dejo otro lugar para hosting, no abusen de eso.. despues van a tener su pagina por todos lados y CrESI los va a denunciar de spam(Es una broma! 😅).
+  
+- **[Dev.new](https://railway.app/new)**: **Para gustos los colores dicen, pero en temas gratuitos para mi este es el mejor(Se los recomiendo).**
 
 ## 🖼 Semantica correcta de HTML
 ![Semantica correcta de HTML](https://pbs.twimg.com/media/F5KTN9ObUAAN59C?format=jpg&name=large)
@@ -44,6 +46,7 @@ Aca les dejo un par de recursos para que puedan tener un desarrollo tranquilo y 
 
 *¡Fork, contribuye y comparte!* 🌟
 
-PD: Como les dije, esto es como una red social asi que les dejo un par de memes y cuando sean mas grandes lo van a entender.
+PD: Como les dije, esto es como una red social asi que les dejo un meme y cuando sean mas grandes lo van a entender.
 
+![Buen meme](https://pbs.twimg.com/media/FLcvDV6VgAAwDD8?format=jpg&name=large)
 
