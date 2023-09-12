@@ -32,7 +32,7 @@ Aca les dejo un par de recursos para que puedan tener un desarrollo tranquilo y 
   
 - **[Render](https://render.com/)**: Aca les dejo otro lugar para hosting, no abusen de eso.. despues van a tener su pagina por todos lados y CrESI los va a denunciar de spam(Es una broma! 😅).
 
-## Semantica correcta de HTML
+## 🖼 Semantica correcta de HTML
 ![Semantica correcta de HTML](https://pbs.twimg.com/media/F5KTN9ObUAAN59C?format=jpg&name=large)
 
 ## 💡 Consejos
