@@ -29,10 +29,10 @@ Aca les dejo un par de recursos para que puedan tener un desarrollo tranquilo y 
 - **[Live SHARE en visual studio code](https://softwareevolutivo.com.ec/live-share-colaboracion-del-equipo-en-tiempo-real/)**: Les dejo un post donde les explica a trabajar en tiempo real juntos. Dado que aun no van a trabajar con ramas ustedes, lo mejor es que se organicen como les explique para poder realizar una tarea en conjunto. Recuerden de siempre definir el intervalo de tiempo que necesitan de su compañero y de manera clara y concisa cual es el inconveniente a resolver.
 
 - **[FL()](https://www.fl0.com/)**: Aca le dejo especialmente para si necesitan levantar bases de datos, este es perfecto y es gratis. Tiene un almacenamiento algo escazo pero no almacenan datos dinamicos por lo que con los estaticos que ustedes usan son mas que suficiente.
-- 
+  
 - **[Render](https://render.com/)**: Aca les dejo otro lugar para hosting, no abusen de eso.. despues van a tener su pagina por todos lados y CrESI los va a denunciar de spam(Es una broma! 😅).
 
-
+**Semantica correcta de HTML**
 ![Semantica correcta de HTML](https://pbs.twimg.com/media/F5KTN9ObUAAN59C?format=jpg&name=large)
 
 ## 💡 Consejos
